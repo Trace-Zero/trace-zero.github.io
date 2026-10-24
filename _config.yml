@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Safiye K. Eker"
 title_separator          : "-"
 name                     : &name "Safiye K. Eker"
@@ -29,7 +29,7 @@ author:
   bio              : "Undergraduate physics student interested in particle physics and machine learning"
   location         : "Istanbul, Türkiye"
   employer         : "Mimar Sinan Fine Arts University"
-  uri              : # URL
+  uri              : "https://msgsu.edu.tr/"# URL
   email            : "20241109001@ogr.msgsu.edu.tr" 
 
   # Academic websites
